@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Quiz, Android@HiG</string>
+    <string name="description_text">
+        Info om uppgiften...
+    </string>
+    <string name="enter_label">Enter</string>
+    <string name="home_label">Home</string>
+    <string name="quiz_label">Quiz</string>
+    <string name="quiz_header_label">Quiz statements</string>
+    <string name="correct">OK</string>
+    <string name="incorrect_true">Nope, this statement is wrong. %s</string>
+    <string name="correct_false">This statement is actually true. %s</string>
+    <string name="game_over">That\'s it, no more statements for you!</string>
+    <string name="go_home">Click on Home-icon to go back.</string>
+</resources>
